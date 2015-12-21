@@ -28,6 +28,10 @@ class StyledComponent extends React.Component {
 
 ## Changelog
 
+### 1.0.1
+
+* Added missing `browserify` section to package.json
+
 ### 1.0.0
 
 * Initial release :tada:
